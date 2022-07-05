@@ -12,4 +12,4 @@
 
 ---
 ## _the output website page_
-[Image Link](https://github.com/IbrahimHanyEl-Sheikh/AWS-Cloud-Devops-Udacity/blob/main/Deploy%20Static%20Website%20on%20AWS/website.jpg)
+![Image Link](https://github.com/IbrahimHanyEl-Sheikh/AWS-Cloud-Devops-Udacity/blob/main/Deploy%20Static%20Website%20on%20AWS/website.jpg)
