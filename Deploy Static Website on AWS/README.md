@@ -1,6 +1,6 @@
 # this is my static website hosted on AWS 
 
-**In this project, we will deploy a static website to AWS by performing the following steps:**
+**In this project, we deployed a static website to AWS by performing the following steps:**
 
 - We created a public **S3 bucket** and upload the website files to your bucket.
 
